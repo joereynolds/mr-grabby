@@ -1,0 +1,22 @@
+# -*- mode: rec -*-
+
+%rec: Site
+%mandatory: Url Selector
+%doc: Sites and their content selector
+
+Url: joereynoldsaudio.com
+Selector: body
+
+Url: github.com
+Selector: #readme
+
+Url: nullprogram.com
+Selector: .single
+
+Url: medium.com
+Selector: article
+
+Url: www.cyberciti.biz
+Selector: .content
+
+
