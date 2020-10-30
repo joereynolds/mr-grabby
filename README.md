@@ -20,7 +20,7 @@ it to markdown and `glow` to render it out nicely.
 
 # Why?
 
-Because I don't like your bloated website.
+Because I don't like bloated websites :(
 
 ## Why not an RSS feed?
 
